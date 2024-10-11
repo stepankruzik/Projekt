@@ -1,4 +1,7 @@
 -- Prvni radek
 -- druhy radek
+-- treti radek
 
-Hello 
+Hello :)
+
+ahoj github :)
