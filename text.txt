@@ -1,5 +1,6 @@
 -- Prvni radek
 -- druhy radek
+-- setsy radek
 
 -- paty radek
 
@@ -8,3 +9,5 @@ Hello :)
 ahoj github :)
 
 Ahoj ja jsem kamos a upravuju kod
+
+edit z vetev !test!
